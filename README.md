@@ -1,4 +1,5 @@
 # SQL_homework
-For this homework, we'll be using a sample database, with sample data provided by MySQL. Before moving on, 
-please [follow these instructions](https://docs.google.com/document/d/1JAWfwmCDsq6lJsZcatMriz0ImHX_uVdxVryp8ZGr4SQ/)
-to install this sample DB.
+For the SQL Homework, you’ll need to load data from a sample database provided by MySQL, named Sakila.
+
+All queries noted in the instructions for the homework are tied to this database. you can find Sakila on 
+"https://dev.mysql.com/doc/index-other.html".
